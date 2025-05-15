@@ -1,8 +1,8 @@
 # .Load ツ
 
-- 👋 Hi, I’m @s2que
+- 👋 │ Hi, I’m @s2que
 
-[![My Skills](https://skillicons.dev/icons?i=discord,raspberrypi,html,css&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,html,css,js&perline=6)](https://skillicons.dev)
 
 <!---
 s2que/s2que is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
