@@ -12,9 +12,6 @@
 ## 🔥〢**AKTIVITÄT & STREAKS**  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=s2que&theme=dark&hiden_border=true)
 
-
-https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
-
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=discord,python,html,css,js&perline=6)](https://skillicons.dev) 
