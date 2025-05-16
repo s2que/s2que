@@ -4,12 +4,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊〢GitHub Stats
 
 ![Agil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s2que&theme=react-dark&hide_border=true)
 
 
-## 🔥 **AKTIVITÄT & STREAKS**  
+## 🔥〢**AKTIVITÄT & STREAKS**  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=s2que&theme=dark&hiden_border=true)
 
 ---
