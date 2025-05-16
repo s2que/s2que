@@ -16,8 +16,3 @@
 
 ## 📚 **SPRACHEN**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s2que&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!---
-s2que/s2que is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
