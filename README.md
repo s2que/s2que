@@ -15,4 +15,3 @@
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=discord,python,html,css,js&perline=6)](https://skillicons.dev) 
-...
