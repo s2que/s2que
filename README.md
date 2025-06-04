@@ -14,4 +14,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=discord,python,html,css,js,pycharm,raspberrypi,linux&perline=6)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=discord,python,html,css,js,pycharm,raspberrypi,linux&perline=8)](https://skillicons.dev) 
