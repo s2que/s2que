@@ -2,6 +2,9 @@
 
 - 👋 │ Hi, I’m @s2que
 
+![GitHub Repo stars](https://img.shields.io/github/stars/benutzername/repo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/benutzername/repo?style=social)
+
 ---
 
 ## 📊〢GitHub Stats
