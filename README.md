@@ -2,9 +2,13 @@
 
 - 👋 │ Hi, I’m @s2que
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1076385334159482952?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20awesome!" alt="Discord Presence"/>
-</p>
+![Online](https://lanyard.cnrad.dev/api/1076385334159482952?component=presence&label=currently&idleMessage=offline&theme=dark&hideDiscrim=true)
+
+![Playing](https://lanyard.cnrad.dev/api/1076385334159482952?component=playing&label=playing&theme=dark)
+
+![Coding](https://lanyard.cnrad.dev/api/1076385334159482952?component=coding&label=coding&theme=dark)
+
+![Listening](https://lanyard.cnrad.dev/api/1076385334159482952?component=listening_to&label=listening%20to&theme=dark)
 
 ---
 
