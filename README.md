@@ -2,8 +2,9 @@
 
 - 👋 │ Hi, I’m @s2que
 
-![GitHub Repo stars](https://img.shields.io/github/stars/benutzername/repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/benutzername/repo?style=social)
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1076385334159482952?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20awesome!" alt="Discord Presence"/>
+</p>
 
 ---
 
