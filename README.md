@@ -2,10 +2,9 @@
 
 - 👋 │ Hi, I’m @s2que
 
-![status](https://img.shields.io/badge/🟢%20Online-Discord-43B581?style=flat&logo=discord&logoColor=white)
-![playing](https://img.shields.io/badge/🎮%20Playing-Nothing%20right%20now-5865F2?style=flat)
-![coding](https://img.shields.io/badge/💻%20Coding-Nothing%20atm-007ACC?style=flat)
-![listening](https://img.shields.io/badge/🎧%20Listening-Nothing%20atm-1DB954?style=flat&logo=spotify&logoColor=white)
+## 🚨〢Mein Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1157683430570610790)](https://discord.com/users/1076385334159482952)
+
 ---
 
 ## 📊〢GitHub Stats
