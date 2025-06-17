@@ -3,7 +3,7 @@
 - 👋 │ Hi, I’m @s2que
 
 ## 🚨〢Mein Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1157683430570610790)](https://discord.com/users/1076385334159482952)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1076385334159482952)](https://discord.com/users/1076385334159482952)
 
 ---
 
